@@ -1,0 +1,35 @@
+Retrieval Augmented Generation (RAG) is a technique used in
+Generative AI systems to improve factual accuracy.
+
+Instead of relying only on a language model's internal knowledge,
+RAG retrieves relevant documents from a knowledge base and
+injects that information into the prompt before generating
+a response.
+
+The process includes three main components:
+
+1. Document Storage
+Documents are stored in a vector database after converting
+them into embeddings.
+
+2. Retrieval
+When a user asks a question, the system searches for the
+most relevant document chunks.
+
+3. Generation
+The retrieved context is provided to the language model
+which generates the final answer.
+
+RAG systems reduce hallucination and improve reliability
+for enterprise AI applications.
+
+Common tools used in RAG pipelines include:
+LangChain
+FAISS
+ChromaDB
+HuggingFace embeddings
+Groq LLMs
+OpenAI models
+
+RAG is widely used in document question answering,
+chatbots, enterprise search systems, and knowledge assistants.
