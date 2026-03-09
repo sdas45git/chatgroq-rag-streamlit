@@ -269,4 +269,10 @@ Streamlit enables rapid development of the chatbot interface, making it easy for
 
 The project highlights how RAG systems improve factual accuracy and reduce hallucinations in modern AI applications.
 
+
+# GitHub Repository
+
+https://github.com/sdas45git/chatgroq-rag-streamlit
+
+
 ---
